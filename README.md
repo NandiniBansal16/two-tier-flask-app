@@ -18,7 +18,7 @@ The goal of this project was to understand:
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 Application Container (Flask)  
 ⬇  
